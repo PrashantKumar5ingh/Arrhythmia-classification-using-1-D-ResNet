@@ -1,1 +1,8 @@
-
+Os
+NumPy
+Pandas
+Matplotlib
+Seaborn
+SkLearn
+Tensorflow
+Keras
